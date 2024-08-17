@@ -1,0 +1,5 @@
+@SQ	SN:NC_000002.12:71453561-71686763	LN:233203
+@SQ	SN:NC_060926.1:71464487-71699459	LN:234973
+@HD	VN:1.5	SO:unsorted	GO:query
+@PG	ID:bwa	PN:bwa	VN:0.7.18-r1243-dirty	CL:bwa mem gene.fna sample.fastq
+
